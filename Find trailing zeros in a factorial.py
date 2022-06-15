@@ -1,6 +1,6 @@
 """
 1. Find the factorial of a number
-2. Find the trailing zeroes in the factorial found above
+2. Find the trailing zeroes in the factorial found above...
 """
 
 
