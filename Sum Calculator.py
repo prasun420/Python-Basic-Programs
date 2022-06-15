@@ -11,4 +11,3 @@ while True:
     else:
         result = result + int(n)
         print(f"You sum so far is {result}")
-        
